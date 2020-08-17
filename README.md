@@ -18,11 +18,11 @@ I'm a ***Full Stack*** developer from Brazil. I develop web, mobile and IoT proj
 <a target="_blank" href="mailto:amos.aureliano@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+</br>
 ## Knowledge areas
 * ***Front-end***(Web and Mobile)
 * ***Back-end***
 * ***IoT***(Internet of Things)
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 ![Amós GitHub Stats](https://github-readme-stats.vercel.app/api?username=AurelianoAmosG20&show_icons=true)
