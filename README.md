@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Amos!  
 
-I'm a ***Front End*** developer from Brazil. I develop web, mobile and IoT projects.
+I'm a ***Full Stack*** developer from Brazil. I develop web, mobile and IoT projects.
 ***18 years old** and ***4 years coding***.
 
 
