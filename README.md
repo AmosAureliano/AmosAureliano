@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Amos!  
 
-I'm a ***Full Stack*** developer from Brazil. I develop web, mobile and IoT projects.
+I'm a ***Front-End*** developer from Brazil. I develop web and Mobile projects.
 ***18 years old** and ***4 years coding***.
 
 
@@ -24,9 +24,9 @@ I'm a ***Full Stack*** developer from Brazil. I develop web, mobile and IoT proj
 
 ----
 ## Knowledge areas
-* ***Front-end*** (Web and Mobile)
-* ***Back-end***
-* ***IoT*** (Internet of Things)
+* ***Web*** 
+* ***Mobile***
+* ***IoT Integration*** 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 ![Amós GitHub Stats](https://github-readme-stats.vercel.app/api?username=AurelianoAmosG20&show_icons=true)
