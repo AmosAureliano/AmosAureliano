@@ -29,4 +29,5 @@ I'm a ***Front-End*** developer from Brazil. I develop web and Mobile projects.
 * ***IoT Integration*** 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-![Amós GitHub Stats](https://github-readme-stats.vercel.app/api?username=AurelianoAmosG20&show_icons=true)
+![Amós GitHub Stats](https://github-readme-stats.vercel.app/api?username=AurelianoAmosG20ns=true&theme=dracula&include_all_commits=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelianoAmosG20&layout=compact&langs_count=7&theme=dracula)
