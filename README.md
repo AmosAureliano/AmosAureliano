@@ -3,23 +3,14 @@
 I'm a ***Front-End*** developer from Brazil. I develop web and Mobile projects.
 ***18 years old** and ***4 years coding***.
 
-
-
-### ***Contact me***
-<a target="_blank" href="https://www.linkedin.com/in/am%C3%B3s-aureliano-689a36187/">
-  <img align="left" alt="LinkdeIN logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5582993351194">
-  <img align="left" alt="Whatsapp logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/amos_aureliano/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a target="_blank" href="mailto:amos.aureliano@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+</div>
 </br>
 
 ----
@@ -29,5 +20,8 @@ I'm a ***Front-End*** developer from Brazil. I develop web and Mobile projects.
 * ***IoT Integration*** 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-![Amós GitHub Stats](https://github-readme-stats.vercel.app/api?username=AurelianoAmosG20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelianoAmosG20&layout=compact&langs_count=7&theme=dracula)
+ <div>
+  <a href="https://github.com/AurelianoAmosG20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AurelianoAmosG20&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurelianoAmosG20&layout=compact&langs_count=7&"/>
+</div>
