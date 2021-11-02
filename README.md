@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Amos!  
 
 I'm a ***Front-End*** developer from Brazil. I develop web and Mobile projects.
-***18 years old** and ***4 years coding***.
+***19 years old** and ***4 years coding***.
 ## 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
