@@ -22,7 +22,7 @@ I'm a ***Front-End*** developer from Brazil. I develop web and Mobile projects.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 <div>
   <a href="https://github.com/AmosAureliano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmosAureliano0&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmosAureliano&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmosAureliano&layout=compact&langs_count=7&"/>
 </div>
   
