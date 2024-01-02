@@ -1,7 +1,7 @@
 # Hi, I'm Amós
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Solving challenges using tech. <br><br> 
+<p align="center"><b>Solving challenges using tech.</b> <br><br> 
 
 Developer with 5 years of developmente experience, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>mid-level front-end developer</strong> focused on web and mobile development.</p>&nbsp;
 
